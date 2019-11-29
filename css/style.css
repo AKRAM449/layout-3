@@ -1,0 +1,90 @@
+.header{
+	background-color:#18B6E9;
+
+	overflow: hidden;
+	/*font-size: 80px*/
+ }
+.header p{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
+.contenter{
+    background-color: #FFC300 ;
+	/*min-height: 400px;*/
+	overflow: hidden;
+}
+.box{
+	/*border: 2px solid black;*/
+/*	min-height: 300px;*/
+	width: 90%;
+	margin: 10px auto;
+	overflow: hidden;
+}
+.box1{
+	background-color: red;
+	min-height: 200px;
+	width: 59%;
+	float: left;
+	/*margin: 2px;*/
+}
+.box1 p{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+
+
+}
+.box2{
+    background-color: blue;
+	min-height: 200px;
+	width: 40%;
+	float: right;
+}
+.box2 p{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	
+}
+.box3{
+/*	border:1px solid white;*/
+	background-color:#9976EA;
+	min-height:130px;
+	width:39%;
+	float: left;
+	margin-top: 5px;
+	/*margin-left:5px;*/
+
+}
+.box3 p{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+
+}
+.box4{
+	background-color: 	#9e004f;
+	min-height: 130px;
+	width: 55%;
+	float: right;
+	margin-top: 5px;
+
+}
+.box4 p{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+
+}
+.contact{
+	background-color: #289e00;
+/*	min-height: 80px;*/
+	overflow: hidden;
+}
+.contact p {
+	color: white;
+	font-size: 20px;
+	text-align: center;
+
+}
